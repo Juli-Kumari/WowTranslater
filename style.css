@@ -1,0 +1,21 @@
+#text-box{
+    width: 600px;
+    height: 200px;
+    display: block;
+    border-radius: 1rem;
+}
+#btn{
+    margin: 1rem;
+    font-size: large;
+    border-radius: 0.5rem;
+}
+.box{
+    height: 200px;
+    width: 600px;
+    border: solid;
+    border-radius: 1rem;
+    margin-top:1rem;
+}
+strong{
+    font-size: large;
+}
