@@ -14,6 +14,9 @@ function errorHandling(e) {
   alert("Server down ......... Please wait for sometime");
   console.log("error = " + e);
 }
+
+// fetch(url).then(response => response.json()).then(json => console.log(json.error.message))
+
 function eventHandling() {
   var inputValue = inputText.value;
 
